@@ -109,3 +109,16 @@
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions)                                                                               | 0.2        | 4        | Medium     | [TBA](130-surrounded-regions.md)                                        |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule)                                                                                     | 0.341      | 5        | Medium     | [TBA](207-course-schedule.md)                                           |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)                                                                               | 0.307      | 5        | Medium     | [TBA](210-course-schedule-ii.md)                                        |
+
+
+
+# Category
+
+| Category | Content                                                                                     |
+|----------|---------------------------------------------------------------------------------------------|
+| 1        | Array, Math, String, Array, Math, String, MinMAx                                            |
+| 2        | Hash Table,Linked List, Stack, Heap, Queue                                                  |
+| 3        | Two Pointers, Binary Search, Divide and Conquer, Backtracking, Sort                         |
+| 4        | Depth-first Search, Breadth-first Search, Trie, Greedy, Union Find, Segment Tree, Recursion |
+| 5        | Graph                                                                                       |
+| 6        | Dynamic Programming                                                                         
