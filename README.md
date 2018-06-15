@@ -115,7 +115,7 @@
 
 | Category | Content                                                                                     |
 |----------|---------------------------------------------------------------------------------------------|
-| 1        | Array, Math, String, Array, Math, String, MinMAx                                            |
+| 1        | Array, Math, String, Array, Math, String, MinMax                                            |
 | 2        | Hash Table,Linked List, Stack, Heap, Queue                                                  |
 | 3        | Two Pointers, Binary Search, Divide and Conquer, Backtracking, Sort                         |
 | 4        | Depth-first Search, Breadth-first Search, Trie, Greedy, Union Find, Segment Tree, Recursion |
