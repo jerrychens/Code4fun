@@ -1,5 +1,4 @@
-# LeetCode High Frequency Ladder
-
+# LeetCode High-frequency Interview Algorithm Problems
 | ID  | Problem                                                                                                                                              | Acceptence | Category | Difficulty | Solution                                                                |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|------------|-------------------------------------------------------------------------|
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                                                                 | 0.49       | 1        | easy       | [2018/06/14](171-excel-sheet-column-number.md)                          |
