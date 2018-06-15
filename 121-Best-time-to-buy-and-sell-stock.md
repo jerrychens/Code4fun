@@ -1,8 +1,11 @@
 Python 3
 
 (1) Check the input if it is empty
+
 (2) Scan from the right to the left. Find the max and its subsiquent min (marching left). If we find the next max value (greater than the current max), then we update the low and high values. Before updating the low and high values, we need to update the max_profit variable (done by a function). Time: O(n)
+
 (3) 2 Cases: Fluctuation price or Monotonic price
+
 
 
 ``` python
@@ -42,4 +45,4 @@ class Solution:
             update_max_profit(high - low)
         
         return self.max_profit
-	```
+```
